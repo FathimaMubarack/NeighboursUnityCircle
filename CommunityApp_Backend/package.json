@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "axios": "^1.7.7",
+    "bcrypt": "^5.1.1",
+    "body-parser": "^1.20.2",
+    "cloudinary": "^2.4.0",
+    "config": "^3.3.12",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "fuse.js": "^7.0.0",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^8.7.3",
+    "node-tesseract-ocr": "^2.2.1",
+    "string-similarity": "^4.0.4",
+    "tesseract.js": "^4.1.4"
+  }
+}
